@@ -18,8 +18,7 @@ I love crafting clean, modern, and user-friendly interfaces, and bringing them t
 |--------------------|--------------------------------------------------|
 | **Design**         | Figma                                            |
 | **Markup & Styles**| HTML5, CSS3, Tailwind CSS                        |
-| **Version Control**| Git, GitHub                                      |
-| **Other Tools**    | VS Code, npm, Yarn, Chrome DevTools             |
+| **Other Tools**    | VS Code, npm, Yarn,            |
 
 ---
 
