@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-Hello there! I’m **Bludnov**, a passionate UI/UX Designer turned Front-End Developer.  
+Hello! I’m **Bludnov**, a passionate UI/UX Designer turned Front-End Developer.  
 I love crafting clean, modern, and user-friendly interfaces, and bringing them to life with code.
 
 - 🎨 **UI/UX Design**  
@@ -36,7 +36,7 @@ I love crafting clean, modern, and user-friendly interfaces, and bringing them t
 
 ## 📫 Contact Me
 
-- Telegram: [@rubludnov](https://t.me/rubludnov)  
+- Telegram: [@invokestring](https://t.me/invokestring)  
 
 ---
 ## ⭐ Text by [@rukwilex](https://github.com/rukwilex)  
