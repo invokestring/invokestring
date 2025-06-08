@@ -36,6 +36,3 @@ I love crafting clean, modern, and user-friendly interfaces, and bringing them t
 ## 📫 Contact Me
 
 - Telegram: [@invokestring](https://t.me/invokestring)  
-
----
-## ⭐ Text by [@rukwilex](https://github.com/rukwilex)  
