@@ -1,4 +1,4 @@
-# Hello, I’m Bludnov! 👋
+# Hello! 👋
 
 ---
 
